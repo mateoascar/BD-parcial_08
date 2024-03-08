@@ -18,11 +18,11 @@ li a {
 }
 
 li a:hover {
-  background-color: #ffcc00; /* Amarillo más oscuro al hacer hover */
+  background-color: #0dcc14; /* Amarillo más oscuro al hacer hover */
 }
 
 .activo {
-  background-color: #ff9900; /* Amarillo más intenso para el elemento activo */
+  background-color: #43d708; /* Amarillo más intenso para el elemento activo */
 }
 
 .derecha {
@@ -32,7 +32,7 @@ li a:hover {
 .miJumbo {
   margin-top: 1rem;
   padding: 32px 16px;
-  background-color: #ffe600; /* Amarillo claro */
+  background-color: #4f4e46; /* Amarillo claro */
   border-radius: 0.5rem;
   text-align: center;
   color: #333; /* Texto negro */
